@@ -874,3 +874,5 @@ labels generated are not suitable, you can overwrite them like this:
 
 Want to contribute? Awesome! You can find information about contributing to
 this project in the [CONTRIBUTING.md](/.github/CONTRIBUTING.md)
+
+Author: Thai Son
